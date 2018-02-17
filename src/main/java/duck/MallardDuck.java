@@ -12,6 +12,8 @@ public class MallardDuck extends Duck {
     }
 
     public static void main(String[] args) {
+
+        // Program to supertype and not concrete implementation
         Duck mallard = new MallardDuck();
 
         mallard.performFly();

@@ -1,4 +1,4 @@
-package duck;
+package strategy;
 
 public class RocketFlying implements FlyBehavior {
     public void fly() {

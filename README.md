@@ -2,8 +2,8 @@
 
 - Setup gralde project: `gradle init --type java-library`
 
-#### Scenarios
+#### Patterns
 
-- `duck` : Implementation of duck behavior using `strategy pattern`.
+- `strategy` : Implementation of duck behavior using `strategy pattern`.
 - `observer`: Implementation of publish subscribe model.
 

@@ -9,7 +9,7 @@ public class BasicSingleton {
         System.out.println("Instance created");
     }
 
-    public static BasicSingleton getInstance() {
+    public static synchronized BasicSingleton getInstance() {
         if (singleton == null) {
             singleton = new BasicSingleton();
         }

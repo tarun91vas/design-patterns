@@ -10,6 +10,7 @@
 - `factory`: Implement a pizza store. A pizza factory which prepares variety of pizza.
 - `singleton`: An implmentation of singleton class to create unique instance.
 - `command`: On/Off remote control implementation using command pattern.
+- `adapter`: An adapter which adapts an enumeration to an iterator.
 
 
 

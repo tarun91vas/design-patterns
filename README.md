@@ -11,6 +11,7 @@
 - `singleton`: An implmentation of singleton class to create unique instance.
 - `command`: On/Off remote control implementation using command pattern.
 - `adapter`: An adapter which adapts an enumeration to an iterator.
+- `template`: A class representing components of template pattern. There are different ways to implment this, only generic representation is shown. 
 
 
 

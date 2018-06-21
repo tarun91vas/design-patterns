@@ -1,6 +1,6 @@
 ## Design pattern implementation
 
-- Setup gralde project: `gradle init --type java-library`
+- Setup gradle project: `gradle init --type java-library`
 
 #### Patterns
 

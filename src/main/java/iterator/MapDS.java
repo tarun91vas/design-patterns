@@ -1,6 +1,5 @@
 package iterator;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -16,6 +15,6 @@ public class MapDS implements DataStructure {
 
     @Override
     public Iterator createIterator() {
-        return new MapIterator(hmap);
+        return hmap.values().iterator();
     }
 }

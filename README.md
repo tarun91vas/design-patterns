@@ -13,7 +13,8 @@
 - `adapter`: An adapter which adapts an enumeration to an iterator.
 - `template`: A class representing components of template pattern. There are different ways to implment this, only generic representation is shown. 
 - `iterator`: Iterator implementation for aggregate types like Array, Map etc. Different types of data structure encapuslated internal implementation by implmenting an iterator.
-
+- `composite`: Implement tree structure print to demonstrate composition.
+ 
 
 
 #### Reference
